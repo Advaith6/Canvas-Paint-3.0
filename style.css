@@ -1,0 +1,28 @@
+h1{
+    margin-bottom: 30px;
+    color: deepskyblue;
+    text-decoration: none;
+}
+input{
+    margin-right: 10px;
+    margin-bottom: 20px;
+    width: 200px;
+    background-color: deepskyblue(70, 68, 67, 0.61);
+    border: solid;
+    font-weight: bold;
+    color: black;
+}
+button{
+    margin-bottom: 20px;
+    background-color: deepskyblue;
+    font-weight: bolder;
+    font-style: italic;
+    color: white;
+}
+hr{
+    margin-bottom: 15px;
+}
+body{
+    background-color: black;
+    color: white;
+}
